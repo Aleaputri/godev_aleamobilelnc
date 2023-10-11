@@ -1,0 +1,153 @@
+{
+  "ads": {
+    "settings": {
+      "interval_interstitial": 3,
+      "interstitial_type" : "lap",
+      "switch_ads_type": "only_banner",
+
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "make_app_under_maintenance": false
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "value": 1,
+        "min_time": 0,
+
+        "appId_appKey_publisherId_gameId": "isi-app-id-app-key",
+        "banner": "isi-kode-iklan-banner",
+        "mrec": "off",
+        "inter": "isi-kode-iklan-inter",
+        "native_ad": "off",
+        "open_ad": "off",
+        "splash_ad": false
+      }
+    ]
+  },
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Information",
+      "image": "file:///android_asset/gmbr/A.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Apps Advice",
+      "image": "file:///android_asset/gmbr/B.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Apps Info",
+      "image": "file:///android_asset/gmbr/C.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Information",
+      "title": "What Is Candy AI",
+      "image": "file:///android_asset/gmbr/A.jpg",
+      "description": "Candy.ai is a platform that creates lifelike virtual companions for",
+      "link": "https://candyaiappinfo.blogspot.com/p/what-is-candy-ai.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Information",
+      "title": "What Is Candy AI And What Does It Offer",
+      "image": "file:///android_asset/gmbr/B.jpg",
+      "description": "Candy AI is a platform that allows you to engage with virtual companions for",
+      "link": "https://candyaiappinfo.blogspot.com/p/what-is-candy-ai-and-what-does-it-offer.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Information",
+      "title": "Why is Candy AI a Revolutionary Way to Interact with AI Characters",
+      "image": "file:///android_asset/gmbr/C.jpg",
+      "description": "Candy AI isn’t your typical chatbot; it’s a bridge to deep",
+      "link": "https://candyaiappinfo.blogspot.com/p/why-is-candy-ai-revolutionary-way-to.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Information",
+      "title": "How Does Candy AI Work and What are its Features",
+      "image": "file:///android_asset/gmbr/D.jpg",
+      "description": " It uses advanced natural language processing (NLP) and machine learning (ML)",
+      "link": "https://candyaiappinfo.blogspot.com/p/how-does-candy-ai-work-and-what-are-its.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Information",
+      "title": "How To Use It",
+      "image": "file:///android_asset/gmbr/E.jpg",
+      "description": "Using Candy.ai is a straightforward process, and it offers",
+      "link": "https://candyaiappinfo.blogspot.com/p/how-to-use-it.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Apps Advice",
+      "title": "Benefits of Candy AI",
+      "image": "file:///android_asset/gmbr/F.jpg",
+      "description": "You can use this as a tool for creative expression and exploration",
+      "link": "https://candyaiappinfo.blogspot.com/p/benefits-of-candy-ai.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Apps Advice",
+      "title": "Challenges and limitations",
+      "image": "file:///android_asset/gmbr/G.jpg",
+      "description": "It is still a developing platform that may encounter some technical issues and",
+      "link": "https://candyaiappinfo.blogspot.com/p/challenges-and-limitations.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Apps Advice",
+      "title": "Frequently Asked Questions",
+      "image": "file:///android_asset/gmbr/H.jpg",
+      "description": "How Do I Chat With the Characters on Candy AI?",
+      "link": "https://candyaiappinfo.blogspot.com/p/frequently-asked-questions.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Apps Advice",
+      "title": "Conclusion",
+      "image": "file:///android_asset/gmbr/A.jpg",
+      "description": "In conclusion, Candy AI presents a groundbreaking approach to engaging with AI",
+      "link": "https://candyaiappinfo.blogspot.com/p/conclusion.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Apps Advice",
+      "title": "About Candy AI",
+      "image": "file:///android_asset/gmbr/B.jpg",
+      "description": "Candy.ai is a groundbreaking platform that takes the concept of AI",
+      "link": "https://candyaiappinfo.blogspot.com/p/about-candy-ai.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Apps Info",
+      "title": "Features Candy AI",
+      "image": "file:///android_asset/gmbr/C.jpg",
+      "description": "Candy.ai boasts a range of features that make it a compelling and innovative",
+      "link": "https://candyaiappinfo.blogspot.com/p/features-candy-ai.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Apps Info",
+      "title": "How Does Candy AI Work",
+      "image": "file:///android_asset/gmbr/D.jpg",
+      "description": "Candy.ai operates through a sophisticated combination of advanced technologies",
+      "link": "https://candyaiappinfo.blogspot.com/p/how-does-candy-ai-work.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Apps Info",
+      "title": "Candy AI Pricing",
+      "image": "file:///android_asset/gmbr/E.jpg",
+      "description": "Candy.ai is a freemium AI tool. In its free usage, your messages are limited",
+      "link": "https://candyaiappinfo.blogspot.com/p/candy-ai-pricing.html"
+    }
+  ]
+}
