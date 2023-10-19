@@ -1,0 +1,177 @@
+{
+  "ads": {
+    "settings": {
+      "interval_interstitial": 3,
+      "interstitial_type" : "lap",
+      "switch_ads_type": "only_banner",
+
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "make_app_under_maintenance": false
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "value": 1,
+        "min_time": 120,
+
+        "appId_appKey_publisherId_gameId": "isi-app-id-app-key",
+        "banner": "isi-kode-iklan-banner",
+        "mrec": "off",
+        "inter": "isi-kode-iklan-inter",
+        "native_ad": "off",
+        "open_ad": "off",
+        "splash_ad": false
+      }
+    ]
+  },
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Information",
+      "image": "file:///android_asset/gmbr/A.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Apps Advice",
+      "image": "file:///android_asset/gmbr/B.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Apps Info",
+      "image": "file:///android_asset/gmbr/C.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Information",
+      "title": "What Is Unhinged AI",
+      "image": "file:///android_asset/gmbr/A.jpg",
+      "description": "Unhinged AI refers to artificial intelligence that exhibits unpredictability or",
+      "link": "https://unhingedaiappadvices.blogspot.com/p/what-is-unhinged-ai.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Information",
+      "title": "Risks Of Unhinged AI",
+      "image": "file:///android_asset/gmbr/B.jpg",
+      "description": "Unhinged AI has the potential to generate large amounts of misinformation",
+      "link": "https://unhingedaiappadvices.blogspot.com/p/risks-of-unhinged-ai.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Information",
+      "title": "Manipulation Of Individuals And Groups",
+      "image": "file:///android_asset/gmbr/C.jpg",
+      "description": "Unhinged AI can manipulate individuals or groups by feeding them biased",
+      "link": "https://unhingedaiappadvices.blogspot.com/p/manipulation-of-individuals-and-groups.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Information",
+      "title": "causes Of Unhinged AI",
+      "image": "file:///android_asset/gmbr/D.jpg",
+      "description": "Unhinged AI can result from data bias and quality issues, such as",
+      "link": "https://unhingedaiappadvices.blogspot.com/p/causes-of-unhinged-ai.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Information",
+      "title": "Solutions For Unhinged AI",
+      "image": "file:///android_asset/gmbr/E.jpg",
+      "description": "Unhinged AI can be addressed by ethical frameworks and principles that",
+      "link": "https://unhingedaiappadvices.blogspot.com/p/solutions-for-unhinged-ai.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Apps Advice",
+      "title": "FAQs",
+      "image": "file:///android_asset/gmbr/F.jpg",
+      "description": "This AI is a term that AI systems that behave unpredictably deviating",
+      "link": "https://unhingedaiappadvices.blogspot.com/p/faqs.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Apps Advice",
+      "title": "User Features Of Unhinged AI",
+      "image": "file:///android_asset/gmbr/G.jpg",
+      "description": "The term Unhinged AI doesn't refer to a standard or recognized concept",
+      "link": "https://unhingedaiappadvices.blogspot.com/p/user-features-of-unhinged-ai.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Apps Advice",
+      "title": "Introducing Unhinged AI",
+      "image": "file:///android_asset/gmbr/H.jpg",
+      "description": "In a world not too dissimilar from our own, where advanced artificial intelligence",
+      "link": "https://unhingedaiappadvices.blogspot.com/p/introducing-unhinged-ai.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Apps Advice",
+      "title": "User How To Start Use Unhinged AI",
+      "image": "file:///android_asset/gmbr/A.jpg",
+      "description": "The concept of Unhinged AI appears to be a fictional or imaginative one",
+      "link": "https://unhingedaiappadvices.blogspot.com/p/user-how-to-start-use-unhinged-ai.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Apps Advice",
+      "title": "Guide For Unhinged AI",
+      "image": "file:///android_asset/gmbr/B.jpg",
+      "description": "Unhinged AI is a fictional concept that challenges the conventional",
+      "link": "https://unhingedaiappadvices.blogspot.com/p/guide-for-unhinged-ai.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Apps Info",
+      "title": "Conclusion",
+      "image": "file:///android_asset/gmbr/C.jpg",
+      "description": "Unhinged AI provides a unique opportunity to explore the unconventional and unpredictable",
+      "link": "https://unhingedaiappadvices.blogspot.com/p/conclusion.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Apps Info",
+      "title": "Phases Use Unhinged AI",
+      "image": "file:///android_asset/gmbr/D.jpg",
+      "description": "When incorporating the concept of \"Unhinged AI\" into a creative project, story",
+      "link": "https://unhingedaiappadvices.blogspot.com/p/phases-use-unhinged-ai.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Apps Info",
+      "title": "User How Does Unhinged AI Use For",
+      "image": "file:///android_asset/gmbr/E.jpg",
+      "description": "The concept of Unhinged AI typically isn't used for practical applications but",
+      "link": "https://unhingedaiappadvices.blogspot.com/p/user-how-does-unhinged-ai-use-for.html"
+    },
+    {
+      "id": 14,
+      "name_category": "Apps Info",
+      "title": "What Is Purpose Of Unhinged AI",
+      "image": "file:///android_asset/gmbr/F.jpg",
+      "description": "The purpose of Unhinged AI is primarily creative and imaginative. It serves as",
+      "link": "https://unhingedaiappadvices.blogspot.com/p/what-is-purpose-of-unhinged-ai.html"
+    },
+    {
+      "id": 15,
+      "name_category": "Apps Info",
+      "title": "Advantage Of Unhinged AI",
+      "image": "file:///android_asset/gmbr/G.jpg",
+      "description": "Generally, when discussing AI systems, it's important to consider ethical guidelines,",
+      "link": "https://unhingedaiappadvices.blogspot.com/p/advantage-of-unhinged-ai.html"
+    },
+    {
+      "id": 16,
+      "name_category": "Apps Info",
+      "title": "Is Unhinged AI Worth It",
+      "image": "file:///android_asset/gmbr/H.jpg",
+      "description": "The worth or value of any AI system depends on several factors, including its intended use, ethical considerations",
+      "link": "https://unhingedaiappadvices.blogspot.com/p/is-unhinged-ai-worth-it.html"
+    }
+  ]
+}
