@@ -13,12 +13,12 @@
       {
         "name": "fan",
         "value": 1,
-        "min_time": 0,
+        "min_time": 120,
 
-        "appId_appKey_publisherId_gameId": "isi-app-id-app-key",
-        "banner": "isi-kode-iklan-banner",
+        "appId_appKey_publisherId_gameId": "836603454600310",
+        "banner": "836603454600310_836607411266581",
         "mrec": "off",
-        "inter": "isi-kode-iklan-inter",
+        "inter": "836603454600310_836607631266559",
         "native_ad": "off",
         "open_ad": "off",
         "splash_ad": false
