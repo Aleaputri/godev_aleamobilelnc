@@ -1,0 +1,177 @@
+{
+  "ads": {
+    "settings": {
+      "interval_interstitial": 3,
+      "interstitial_type" : "lap",
+      "switch_ads_type": "only_banner",
+
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "make_app_under_maintenance": false
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "value": 1,
+        "min_time": 0,
+
+        "appId_appKey_publisherId_gameId": "isi-app-id-app-key",
+        "banner": "isi-kode-iklan-banner",
+        "mrec": "off",
+        "inter": "isi-kode-iklan-inter",
+        "native_ad": "off",
+        "open_ad": "off",
+        "splash_ad": false
+      }
+    ]
+  },
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Information",
+      "image": "file:///android_asset/gmbr/A.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Apps Advice",
+      "image": "file:///android_asset/gmbr/B.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Apps Info",
+      "image": "file:///android_asset/gmbr/C.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Information",
+      "title": "Introducing Leiapix AI",
+      "image": "file:///android_asset/gmbr/A.jpg",
+      "description": "This is the power that LeiaPix AI brings to the table. As you saw in the introductory video",
+      "link": "https://leiapixaiappinfo.blogspot.com/p/introducing-leiapix-ai.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Information",
+      "title": "Leiapix AI Free 3D Image Converter",
+      "image": "file:///android_asset/gmbr/B.jpg",
+      "description": "Today, we're about to embark on a journey of creativity and transformation as we dive",
+      "link": "https://leiapixaiappinfo.blogspot.com/p/leiapix-ai-free-3d-image-converter.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Information",
+      "title": "Leiapix AI Overview",
+      "image": "file:///android_asset/gmbr/C.jpg",
+      "description": " 2D to 3D image conversion",
+      "link": "https://leiapixaiappinfo.blogspot.com/p/leiapix-ai-overview.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Information",
+      "title": "Leiapix AI Conversion",
+      "image": "file:///android_asset/gmbr/D.jpg",
+      "description": "Have you ever wondered why adding that touch of motion to your images can make",
+      "link": "https://leiapixaiappinfo.blogspot.com/p/leiapix-ai-magic-of-3d-conversion.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Information",
+      "title": "Pros And Cons",
+      "image": "file:///android_asset/gmbr/E.jpg",
+      "description": " Enhanced 3D Content Creation,Realistic 3D Imaging, User-Friendly 3D Creation",
+      "link": "https://leiapixaiappinfo.blogspot.com/p/pros-and-cons.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Apps Advice",
+      "title": "FAQs",
+      "image": "file:///android_asset/gmbr/F.jpg",
+      "description": "LeiaPix AI is an AI 3D converter tool developed by Leia Inc. that transforms",
+      "link": "https://leiapixaiappinfo.blogspot.com/p/faqs.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Apps Advice",
+      "title": "Navigating Leiapix Converter",
+      "image": "file:///android_asset/gmbr/G.jpg",
+      "description": "Text-to-Image AI Generator: With Yodayo, you can simply input text descriptions",
+      "link": "https://leiapixaiappinfo.blogspot.com/p/navigating-leiapix-converter.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Apps Advice",
+      "title": "Leiapix AI Features",
+      "image": "file:///android_asset/gmbr/H.jpg",
+      "description": "Infinite 3D Content: Experience an expansive universe of immersive content as AI accelerates",
+      "link": "https://leiapixaiappinfo.blogspot.com/p/leiapix-ai-features.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Apps Advice",
+      "title": "Customizing Your 3D Animation",
+      "image": "file:///android_asset/gmbr/I.jpg",
+      "description": "Here comes the exciting part – the moment you’ve been waiting for. Upload",
+      "link": "https://leiapixaiappinfo.blogspot.com/p/customizing-your-3d-animation.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Apps Advice",
+      "title": "Advanced Editing And Depth Map",
+      "image": "file:///android_asset/gmbr/J.jpg",
+      "description": "For those who want to take their animations to the next level, LeiaPix Converter",
+      "link": "https://leiapixaiappinfo.blogspot.com/p/advanced-editing-and-depth-map.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Apps Info",
+      "title": "Sharing Your 3D Creations",
+      "image": "file:///android_asset/gmbr/K.jpg",
+      "description": " As the finishing touch, it’s time to unveil your masterpiece to the world. Click on “Share” and explore",
+      "link": "https://leiapixaiappinfo.blogspot.com/p/sharing-your-3d-creations.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Apps Info",
+      "title": "Leiapix AI Real Life Use Cases",
+      "image": "file:///android_asset/gmbr/L.jpg",
+      "description": "Now that you’ve mastered the art of turning images into 3D animations, let’s explore some real",
+      "link": "https://leiapixaiappinfo.blogspot.com/p/leiapix-ai-real-life-use-cases.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Apps Info",
+      "title": "Your Creative Journey Continues Where",
+      "image": "file:///android_asset/gmbr/A.jpg",
+      "description": "As we near the end of this captivating journey, remember that LeiaPix AI",
+      "link": "https://leiapixaiappinfo.blogspot.com/p/your-creative-journey-continues-where.html"
+    },
+    {
+      "id": 14,
+      "name_category": "Apps Info",
+      "title": "Final Thoughts",
+      "image": "file:///android_asset/gmbr/B.jpg",
+      "description": "In the realm of visual storytelling, LeiaPix AI has opened a new chapter – a chapter",
+      "link": "https://leiapixaiappinfo.blogspot.com/p/final-thoughts.html"
+    },
+    {
+      "id": 15,
+      "name_category": "Apps Info",
+      "title": "3 Things I Love About Leiapix Converter",
+      "image": "file:///android_asset/gmbr/C.jpg",
+      "description": "Simplicity: The LeiaPix Converter is incredibly easy to use, making 3D image conversion",
+      "link": "https://leiapixaiappinfo.blogspot.com/p/3-things-i-love-about-leiapix-converter.html"
+    },
+    {
+      "id": 16,
+      "name_category": "Apps Info",
+      "title": "What Problem Does Leiapix Converter",
+      "image": "file:///android_asset/gmbr/D.jpg",
+      "description": "The LeiaPix Converter addresses the need for a simple, yet effective way to transform ordinary images into",
+      "link": "https://leiapixaiappinfo.blogspot.com/p/what-problem-does-leiapix-converter.html"
+    }
+  ]
+}
