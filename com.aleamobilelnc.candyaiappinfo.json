@@ -13,7 +13,7 @@
       {
         "name": "fan",
         "value": 1,
-        "min_time": 120,
+        "min_time": 0,
 
         "appId_appKey_publisherId_gameId": "836603454600310",
         "banner": "836603454600310_836607411266581",
