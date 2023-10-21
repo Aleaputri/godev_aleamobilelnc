@@ -1,0 +1,177 @@
+{
+  "ads": {
+    "settings": {
+      "interval_interstitial": 3,
+      "interstitial_type" : "lap",
+      "switch_ads_type": "only_banner",
+
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "make_app_under_maintenance": false
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "value": 1,
+        "min_time": 0,
+
+        "appId_appKey_publisherId_gameId": "isi-app-id-app-key",
+        "banner": "isi-kode-iklan-banner",
+        "mrec": "off",
+        "inter": "isi-kode-iklan-inter",
+        "native_ad": "off",
+        "open_ad": "off",
+        "splash_ad": false
+      }
+    ]
+  },
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Information",
+      "image": "file:///android_asset/gmbr/A.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Apps Advice",
+      "image": "file:///android_asset/gmbr/B.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Apps Info",
+      "image": "file:///android_asset/gmbr/C.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Information",
+      "title": "what Is Catbird AI",
+      "image": "file:///android_asset/gmbr/A.jpg",
+      "description": " Catbird AI Review: Catbird AI is a multi-model image generator that allows",
+      "link": "https://catbirdaiappinfo.blogspot.com/p/what-is-catbird-ai.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Information",
+      "title": "What Features Does Catbird AI",
+      "image": "file:///android_asset/gmbr/B.jpg",
+      "description": "Catbird AI Review: You can multiple useful features with Catbird AI",
+      "link": "https://catbirdaiappinfo.blogspot.com/p/what-features-does-catbird-ai.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Information",
+      "title": "Whats Pricing Of Catbird AI",
+      "image": "file:///android_asset/gmbr/C.jpg",
+      "description": " This plan is ideal for you if you are just starting out with",
+      "link": "https://catbirdaiappinfo.blogspot.com/p/whats-pricing-of-catbird-ai.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Information",
+      "title": "What Is Purpose Of Catbird AI",
+      "image": "file:///android_asset/gmbr/D.jpg",
+      "description": "Catbird AI allows artists to explore and express their creativity by",
+      "link": "https://catbirdaiappinfo.blogspot.com/p/what-is-purpose-of-catbird-ai.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Information",
+      "title": "How Does Catbird AI Use For",
+      "image": "file:///android_asset/gmbr/E.jpg",
+      "description": "Artists and designers can use Catbird AI to generate unique and imaginative images",
+      "link": "https://catbirdaiappinfo.blogspot.com/p/how-does-catbird-ai-use-for.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Apps Advice",
+      "title": "Differences Catbird AI With Another",
+      "image": "file:///android_asset/gmbr/F.jpg",
+      "description": "The user interface and ease of use can vary between applications.",
+      "link": "https://catbirdaiappinfo.blogspot.com/p/differences-catbird-ai-with-another.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Apps Advice",
+      "title": "Phases Use Catbird AI",
+      "image": "file:///android_asset/gmbr/G.jpg",
+      "description": "In this phase, you access the Catbird AI platform by visiting the official website and",
+      "link": "https://catbirdaiappinfo.blogspot.com/p/phases-use-catbird-ai.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Apps Advice",
+      "title": "Implementation Catbird AI",
+      "image": "file:///android_asset/gmbr/H.jpg",
+      "description": "Visit the official Catbird AI website or access the platform through any other designated means.",
+      "link": "https://catbirdaiappinfo.blogspot.com/p/implementation-catbird-ai.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Apps Advice",
+      "title": "Definition Catbird AI",
+      "image": "file:///android_asset/gmbr/A.jpg",
+      "description": "Catbird AI is an artificial intelligence (AI) platform or technology that is designed for",
+      "link": "https://catbirdaiappinfo.blogspot.com/p/definition-catbird-ai.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Apps Advice",
+      "title": "How To Start Use Catbird AI",
+      "image": "file:///android_asset/gmbr/B.jpg",
+      "description": "Open a web browser and navigate to the official Catbird AI website. You can typically",
+      "link": "https://catbirdaiappinfo.blogspot.com/p/how-to-start-use-catbird-ai.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Apps Info",
+      "title": "Is Catbird AI Worth It",
+      "image": "file:///android_asset/gmbr/C.jpg",
+      "description": "Catbird AI is primarily used for image generation. If you require a tool ",
+      "link": "https://catbirdaiappinfo.blogspot.com/p/is-catbird-ai-worth-it.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Apps Info",
+      "title": "System Requirements Catbird AI",
+      "image": "file:///android_asset/gmbr/D.jpg",
+      "description": "Visit the Official Website: Go to the official Catbird AI website. Look for sections like",
+      "link": "https://catbirdaiappinfo.blogspot.com/p/system-requirements-catbird-ai.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Apps Info",
+      "title": "How To Access Catbird AI",
+      "image": "file:///android_asset/gmbr/E.jpg",
+      "description": "n the address bar of your web browser, enter the URL for the Catbird AI",
+      "link": "https://catbirdaiappinfo.blogspot.com/p/how-to-access-catbird-ai.html"
+    },
+    {
+      "id": 14,
+      "name_category": "Apps Info",
+      "title": "Conclusion",
+      "image": "file:///android_asset/gmbr/F.jpg",
+      "description": "In a world where visual content is essential for communication and creativity",
+      "link": "https://catbirdaiappinfo.blogspot.com/p/conclusion.html"
+    },
+    {
+      "id": 15,
+      "name_category": "Apps Info",
+      "title": "Introducing Catbird AI",
+      "image": "file:///android_asset/gmbr/G.jpg",
+      "description": "Catbird AI offers a diverse selection of over 15 machine learning models, including ",
+      "link": "https://catbirdaiappinfo.blogspot.com/p/introducing-catbird-ai.html"
+    },
+    {
+      "id": 16,
+      "name_category": "Apps Info",
+      "title": "How To Use Catbird AI",
+      "image": "file:///android_asset/gmbr/H.jpg",
+      "description": "To use Catbird AI, you'll need to follow the platform's specific instructions and interface",
+      "link": "https://catbirdaiappinfo.blogspot.com/p/ow-to-use-catbird-ai.html"
+    }
+  ]
+}
