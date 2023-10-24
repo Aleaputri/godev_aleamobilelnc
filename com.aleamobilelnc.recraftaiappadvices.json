@@ -1,0 +1,201 @@
+{
+  "ads": {
+    "settings": {
+      "interval_interstitial": 3,
+      "interstitial_type" : "lap",
+      "switch_ads_type": "only_banner",
+
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "make_app_under_maintenance": false
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "value": 1,
+        "min_time": 0,
+
+        "appId_appKey_publisherId_gameId": "isi-app-id-app-key",
+        "banner": "isi-kode-iklan-banner",
+        "mrec": "off",
+        "inter": "isi-kode-iklan-inter",
+        "native_ad": "off",
+        "open_ad": "off",
+        "splash_ad": false
+      }
+    ]
+  },
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Information",
+      "image": "file:///android_asset/gmbr/A.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Apps Advice",
+      "image": "file:///android_asset/gmbr/B.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Apps Info",
+      "image": "file:///android_asset/gmbr/C.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Information",
+      "title": "About Recraft AI",
+      "image": "file:///android_asset/gmbr/A.jpg",
+      "description": "Introducing Recraft, an AI-powered artboard revolutionizing the way users generate and edit",
+      "link": "https://recraftaiappadvices.blogspot.com/p/about-recraft-ai.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Information",
+      "title": "Key Features Of Recraft AI",
+      "image": "file:///android_asset/gmbr/B.jpg",
+      "description": "AI-Powered Artboard: Effortlessly generate and edit vector art, icons, 3D images",
+      "link": "https://recraftaiappadvices.blogspot.com/p/key-features-of-recraft-ai.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Information",
+      "title": "Recraft Is Ideal Tool For Various User",
+      "image": "file:///android_asset/gmbr/C.jpg",
+      "description": " Graphic designers and illustrators seeking a versatile platform to craft mesmerizing",
+      "link": "https://recraftaiappadvices.blogspot.com/p/recraft-is-ideal-tool-for-various-user.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Information",
+      "title": "Pros And Cons Recraft AI",
+      "image": "file:///android_asset/gmbr/D.jpg",
+      "description": "Generates and edits vector art,Creates 3D images,Different styles for customization",
+      "link": "https://recraftaiappadvices.blogspot.com/p/pros-and-cons-recraft-ai.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Information",
+      "title": "How To Use Recraft AI",
+      "image": "file:///android_asset/gmbr/E.jpg",
+      "description": "Acquire the Software: Obtain the Recraft AI software through their official website",
+      "link": "https://recraftaiappadvices.blogspot.com/p/how-to-use-recraft-ai.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Apps Advice",
+      "title": "How To Access Recraft AI",
+      "image": "file:///android_asset/gmbr/F.jpg",
+      "description": "Visit the Official Website: Start by visiting the official website of Recraft AI",
+      "link": "https://recraftaiappadvices.blogspot.com/p/how-to-access-recraft-ai.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Apps Advice",
+      "title": "How To Download Recraft AI",
+      "image": "file:///android_asset/gmbr/G.jpg",
+      "description": "Locate the Download Section: Once you are on the official website, look for a",
+      "link": "https://recraftaiappadvices.blogspot.com/p/how-to-download-recraft-ai.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Apps Advice",
+      "title": "Is Recraft AI Worth It",
+      "image": "file:///android_asset/gmbr/H.jpg",
+      "description": "Features and Capabilities: Look at the features and capabilities of Recraft AI.",
+      "link": "https://recraftaiappadvices.blogspot.com/p/is-recraft-ai-worth-it.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Apps Advice",
+      "title": "How To Start Use Recraft AI",
+      "image": "file:///android_asset/gmbr/I.jpg",
+      "description": "Visit the official website of Recraft AI., Register for an account or purchase a license if required.",
+      "link": "https://recraftaiappadvices.blogspot.com/p/how-to-start-use-recraft-ai.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Apps Advice",
+      "title": "Implementation Recraft AI",
+      "image": "file:///android_asset/gmbr/J.jpg",
+      "description": "Acquire the software from the official source, such as the Recraft AI website or an authorized distributor",
+      "link": "https://recraftaiappadvices.blogspot.com/p/implementation-recraft-ai.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Apps Info",
+      "title": "guide-for-recraft-ai",
+      "image": "file:///android_asset/gmbr/K.jpg",
+      "description": "Acquire and install Recraft AI following the installation instructions provided.",
+      "link": "https://recraftaiappadvices.blogspot.com/p/guide-for-recraft-ai.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Apps Info",
+      "title": " Phases Use Recraft AI",
+      "image": "file:///android_asset/gmbr/L.jpg",
+      "description": "Define the purpose of your project and the visual content you need to create or edit.",
+      "link": "https://recraftaiappadvices.blogspot.com/p/phases-use-recraft-ai.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Apps Info",
+      "title": "Definition Recraft AI",
+      "image": "file:///android_asset/gmbr/M.jpg",
+      "description": "Recraft AI appears to be a software or platform that utilizes artificial intelligence (AI) technology",
+      "link": "https://recraftaiappadvices.blogspot.com/p/definition-recraft-ai.html"
+    },
+    {
+      "id": 14,
+      "name_category": "Apps Info",
+      "title": "Differences Recraft AI With Another",
+      "image": "file:///android_asset/gmbr/A.jpg",
+      "description": "Specific Features: Different software applications often have unique features that",
+      "link": "https://recraftaiappadvices.blogspot.com/p/differences-recraft-ai-with-another.html"
+    },
+    {
+      "id": 15,
+      "name_category": "Apps Info",
+      "title": "How Does Recraft AI Use For",
+      "image": "file:///android_asset/gmbr/B.jpg",
+      "description": "User Interface (UI) and User Experience (UX) Design: Designing user interfaces for",
+      "link": "https://recraftaiappadvices.blogspot.com/p/how-does-recraft-ai-use-for.html"
+    },
+    {
+      "id": 16,
+      "name_category": "Apps Info",
+      "title": "What Is Purpose Of Recraft AI",
+      "image": "file:///android_asset/gmbr/C.jpg",
+      "description": "Streamlining Visual Content Creation: Recraft AI aims to make the creation of various types",
+      "link": "https://recraftaiappadvices.blogspot.com/p/what-is-purpose-of-recraft-ai.html"
+    },
+    {
+      "id": 17,
+      "name_category": "Apps Info",
+      "title": "Purpose Of Recraft AI Application",
+      "image": "file:///android_asset/gmbr/D.jpg",
+      "description": "AI-Powered Visual Content Creation: Recraft AI aims to utilize AI algorithms to assist users",
+      "link": "https://recraftaiappadvices.blogspot.com/p/purpose-of-recraft-ai-application.html"
+    },
+    {
+      "id": 18,
+      "name_category": "Apps Info",
+      "title": "Advantage Of Recraft AI Application",
+      "image": "file:///android_asset/gmbr/E.jpg",
+      "description": "Efficiency: AI can automate repetitive and time-consuming design tasks, making the design",
+      "link": "https://recraftaiappadvices.blogspot.com/p/advantage-of-recraft-ai-application.html"
+    },
+    {
+      "id": 16,
+      "name_category": "Apps Info",
+      "title": "Disadvantage Of Recraft AI Application",
+      "image": "file:///android_asset/gmbr/F.jpg",
+      "description": "Limited Creativity: While AI can assist with design tasks, it may not always have the creative",
+      "link": "https://recraftaiappadvices.blogspot.com/p/disadvantage-of-recraft-ai-application.html"
+    }
+  ]
+}
