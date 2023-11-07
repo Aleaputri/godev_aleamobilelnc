@@ -1,0 +1,169 @@
+{
+  "ads": {
+    "settings": {
+      "interval_interstitial": 3,
+      "interstitial_type" : "lap",
+      "switch_ads_type": "only_banner",
+
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "make_app_under_maintenance": false
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "value": 1,
+        "min_time": 0,
+
+        "appId_appKey_publisherId_gameId": "isi-app-id-app-key",
+        "banner": "isi-kode-iklan-banner",
+        "mrec": "off",
+        "inter": "isi-kode-iklan-inter",
+        "native_ad": "off",
+        "open_ad": "off",
+        "splash_ad": false
+      }
+    ]
+  },
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Information",
+      "image": "file:///android_asset/gmbr/A.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Apps Advice",
+      "image": "file:///android_asset/gmbr/B.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Apps Info",
+      "image": "file:///android_asset/gmbr/C.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Information",
+      "title": "About Docuask",
+      "image": "file:///android_asset/gmbr/A.jpg",
+      "description": "DocuAsk is an AI-powered tool that allows users to ask and answer questions in a simple, fast and secure manner.",
+      "link": "https://docuaskappadvices.blogspot.com/p/about-docuask.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Information",
+      "title": "What Is Docuask",
+      "image": "file:///android_asset/gmbr/B.jpg",
+      "description": "DocuAsk is an Al-powered tool that allows users to ask and answer questions in a simple, fast and secure manner.",
+      "link": "https://docuaskappadvices.blogspot.com/p/what-is-docuask.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Information",
+      "title": "Who Is Docuask For",
+      "image": "file:///android_asset/gmbr/C.jpg",
+      "description": " Lawyers and legal professionals who need to quickly analyze and align legal documents across different languages.",
+      "link": "https://docuaskappadvices.blogspot.com/p/who-is-docu-ask-for.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Information",
+      "title": "What Are Use Cases For Docuask",
+      "image": "file:///android_asset/gmbr/D.jpg",
+      "description": "Legal professionals: Lawyers and legal professionals can use DocuAsk to quickly search through legal documents",
+      "link": "https://docuaskappadvices.blogspot.com/p/what-are-use-cases-for-docu-ask.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Information",
+      "title": "Frequently Asked Questions",
+      "image": "file:///android_asset/gmbr/E.jpg",
+      "description": "DocuAsk is a versatile app that allows you to upload PDF documents, ask them specific or comparative questions",
+      "link": "https://docuaskappadvices.blogspot.com/p/frequently-asked-questions.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Apps Advice",
+      "title": "Key Features Benefits Why Docuask Shines",
+      "image": "file:///android_asset/gmbr/F.jpg",
+      "description": "Effortless Document Analysis: With just a few clicks, you can analyze and align your documents,",
+      "link": "https://docuaskappadvices.blogspot.com/p/key-features-benefits-why-docuask-shines.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Apps Advice",
+      "title": "Conclusion Of Key Benefits",
+      "image": "file:///android_asset/gmbr/G.jpg",
+      "description": "DocuAsk is more than just a tool; it's a game-changer in the realm of document comparison.",
+      "link": "https://docuaskappadvices.blogspot.com/p/conclusion-of-key-benefits.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Apps Advice",
+      "title": "Real World Magic Where Docuask Makes",
+      "image": "file:///android_asset/gmbr/H.jpg",
+      "description": "From legal professionals comparing contracts to researchers analyzing scientific papers, DocuAsk",
+      "link": "https://docuaskappadvices.blogspot.com/p/real-world-magic-where-docuask-makes.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Apps Advice",
+      "title": "FAQs",
+      "image": "file:///android_asset/gmbr/I.jpg",
+      "description": "DocuAsk is a sophisticated tool designed for comparing documents. It identifies connections and distinctions",
+      "link": "https://docuaskappadvices.blogspot.com/p/faqs.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Apps Advice",
+      "title": "Use Cases Docuask",
+      "image": "file:///android_asset/gmbr/J.jpg",
+      "description": "Knowledge extraction: DocuAsk enables users to extract valuable insights and information from",
+      "link": "https://docuaskappadvices.blogspot.com/p/use-cases-docuask.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Apps Info",
+      "title": "Docuask Benefits",
+      "image": "file:///android_asset/gmbr/A.jpg",
+      "description": "Enhanced Productivity: Save time and effort by efficiently managing and analyzing your documents with our AI-powered tool.",
+      "link": "https://docuaskappadvices.blogspot.com/p/docuask-benefits.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Apps Info",
+      "title": "Docuask",
+      "image": "file:///android_asset/gmbr/B.jpg",
+      "description": "This tool called DocuAsk is really powerful. It uses AI to change how people ask and answer questions.",
+      "link": "https://docuaskappadvices.blogspot.com/p/docuask.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Apps Info",
+      "title": "How To Use",
+      "image": "file:///android_asset/gmbr/C.jpg",
+      "description": "Importance: Drastically reduces time spent on document analysis, improving overall efficiency.",
+      "link": "https://docuaskappadvices.blogspot.com/p/how-to-use.html"
+    },
+    {
+      "id": 14,
+      "name_category": "Apps Info",
+      "title": "Why Is Docuask Ultimate Document",
+      "image": "file:///android_asset/gmbr/D.jpg",
+      "description": "DocuAsk is not just another document comparison tool. It's an AI-powered platform that dives",
+      "link": "https://docuaskappadvices.blogspot.com/p/why-is-docuask-ultimate-document.html"
+    },
+    {
+      "id": 15,
+      "name_category": "Apps Info",
+      "title": "Three Reasons Docuask Is Game Changer",
+      "image": "file:///android_asset/gmbr/E.jpg",
+      "description": "AI-Powered Insights: Leveraging the power of artificial intelligence, DocuAsk offers deeper insights",
+      "link": "https://docuaskappadvices.blogspot.com/p/three-reasons-docuask-is-game-changer.html"
+    }
+  ]
+}
