@@ -1,0 +1,185 @@
+{
+  "ads": {
+    "settings": {
+      "interval_interstitial": 3,
+      "interstitial_type" : "lap",
+      "switch_ads_type": "only_banner",
+
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "make_app_under_maintenance": false
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "value": 1,
+        "min_time": 0,
+
+        "appId_appKey_publisherId_gameId": "isi-app-id-app-key",
+        "banner": "isi-kode-iklan-banner",
+        "mrec": "off",
+        "inter": "isi-kode-iklan-inter",
+        "native_ad": "off",
+        "open_ad": "off",
+        "splash_ad": false
+      }
+    ]
+  },
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Information",
+      "image": "file:///android_asset/gmbr/A.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Apps Advice",
+      "image": "file:///android_asset/gmbr/B.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Apps Info",
+      "image": "file:///android_asset/gmbr/C.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Information",
+      "title": "What Is Prezo AI",
+      "image": "file:///android_asset/gmbr/A.jpg",
+      "description": "Prezo is a free AI slideshow generator. It can summarize long documents into presentations, add AI generated images and create",
+      "link": "https://prezoaiappadvices.blogspot.com/p/what-is-prezo-ai.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Information",
+      "title": "Key Features Prezo AI",
+      "image": "file:///android_asset/gmbr/B.jpg",
+      "description": "AI-powered Presentation Formatting: Prezo utilizes AI technology to create visually appealing presentations",
+      "link": "https://prezoaiappadvices.blogspot.com/p/key-features-prezo-ai.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Information",
+      "title": "About Prezo AI",
+      "image": "file:///android_asset/gmbr/C.jpg",
+      "description": "Prezo is an AI-powered software platform designed to help users build professional-grade slide decks ten times faster",
+      "link": "https://prezoaiappadvices.blogspot.com/p/about.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Information",
+      "title": "Pros And Cons Prezo AI",
+      "image": "file:///android_asset/gmbr/D.jpg",
+      "description": "Builds slides 10x faster, Natural language processing, Visual customization options, User-friendly interface",
+      "link": "https://prezoaiappadvices.blogspot.com/p/pros-and-cons-prezo-ai.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Information",
+      "title": "Q&A Prezo AI Part 1",
+      "image": "file:///android_asset/gmbr/E.jpg",
+      "description": "Prezo is an AI-powered software platform that assists users in building professional-grade slide decks up to ten",
+      "link": "https://prezoaiappadvices.blogspot.com/p/q-part-1.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Apps Advice",
+      "title": "Q&A Prezo AI Part 2",
+      "image": "file:///android_asset/gmbr/F.jpg",
+      "description": "Prezo prides itself on being very user-friendly. It was designed with a focus on creating an intuitive user experience ",
+      "link": "https://prezoaiappadvices.blogspot.com/p/q-part-2.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Apps Advice",
+      "title": "Intro Prezo AI",
+      "image": "file:///android_asset/gmbr/G.jpg",
+      "description": "Prezo is a cutting-edge tool that merges the power of Artificial Intelligence (AI) with presentation creation",
+      "link": "https://prezoaiappadvices.blogspot.com/p/intro.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Apps Advice",
+      "title": "AI Powered Image Optimization",
+      "image": "file:///android_asset/gmbr/H.jpg",
+      "description": "Visuals play a crucial role in presentations, and Prezo understands the importance of high-quality images.",
+      "link": "https://prezoaiappadvices.blogspot.com/p/ai-powered-image-optimization.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Apps Advice",
+      "title": "Conclusion",
+      "image": "file:///android_asset/gmbr/A.jpg",
+      "description": "Prezo is a free AI slideshow generator. It can summarize long documents into presentations, add AI generated images and",
+      "link": "https://prezoaiappadvices.blogspot.com/p/conclusion.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Apps Advice",
+      "title": "How To Use Prezo AI",
+      "image": "file:///android_asset/gmbr/B.jpg",
+      "description": "If you already have an account, log in. If not, you'll need to sign up by providing your details and creating a username and password",
+      "link": "https://prezoaiappadvices.blogspot.com/p/how-to-use-prezo-ai.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Apps Info",
+      "title": "Introducing Prezo AI",
+      "image": "file:///android_asset/gmbr/C.jpg",
+      "description": "In today's fast-paced world, creating impactful presentations is a critical skill. Whether you're a professional",
+      "link": "https://prezoaiappadvices.blogspot.com/p/introducing-prezo-ai.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Apps Info",
+      "title": "System Requirements Prezo AI",
+      "image": "file:///android_asset/gmbr/D.jpg",
+      "description": "Internet Connection: You will need a stable internet connection to access and use Prezo AI since it is a",
+      "link": "https://prezoaiappadvices.blogspot.com/p/system-requirements-prezo-ai.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Apps Info",
+      "title": "Is Prezo AI Worth It",
+      "image": "file:///android_asset/gmbr/E.jpg",
+      "description": "Time and Efficiency: If you frequently create presentations and want to save time, Prezo AI can be valuable.",
+      "link": "https://prezoaiappadvices.blogspot.com/p/is-prezo-ai-worth-it.html"
+    },
+    {
+      "id": 14,
+      "name_category": "Apps Info",
+      "title": "Implementation Prezo AI",
+      "image": "file:///android_asset/gmbr/F.jpg",
+      "description": "Once you're logged in, you'll typically find an option to start a new presentation or project",
+      "link": "https://prezoaiappadvices.blogspot.com/p/implementation-prezo-ai.html"
+    },
+    {
+      "id": 15,
+      "name_category": "Apps Info",
+      "title": "Guide For Prezo AI",
+      "image": "file:///android_asset/gmbr/G.jpg",
+      "description": "Start by understanding the purpose of your presentation. What message do you want to convey, and what action",
+      "link": "https://prezoaiappadvices.blogspot.com/p/guide-for-prezo-ai.html"
+    },
+    {
+      "id": 16,
+      "name_category": "Apps Info",
+      "title": "Advantage Of Prezo AI Application",
+      "image": "file:///android_asset/gmbr/H.jpg",
+      "description": "Document Summarization: Prezo AI can help users quickly summarize long documents, making it easier to distill essential",
+      "link": "https://prezoaiappadvices.blogspot.com/p/advantage-of-prezo-ai-application.html"
+    },
+    {
+      "id": 16,
+      "name_category": "Apps Info",
+      "title": "Disadvantage Of Prezo AI Application",
+      "image": "file:///android_asset/gmbr/H.jpg",
+      "description": "Accuracy of Summarization: AI-generated document summarization may not always accurately capture the most critical",
+      "link": "https://prezoaiappadvices.blogspot.com/p/disadvantage-of-prezo-ai-application.html"
+    }
+  ]
+}
