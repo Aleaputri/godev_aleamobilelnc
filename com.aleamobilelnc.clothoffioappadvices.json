@@ -1,0 +1,193 @@
+{
+  "ads": {
+    "settings": {
+      "interval_interstitial": 3,
+      "interstitial_type" : "lap",
+      "switch_ads_type": "only_banner",
+
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "make_app_under_maintenance": false
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "value": 1,
+        "min_time": 0,
+
+        "appId_appKey_publisherId_gameId": "isi-app-id-app-key",
+        "banner": "isi-kode-iklan-banner",
+        "mrec": "off",
+        "inter": "isi-kode-iklan-inter",
+        "native_ad": "off",
+        "open_ad": "off",
+        "splash_ad": false
+      }
+    ]
+  },
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Information",
+      "image": "file:///android_asset/gmbr/A.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Apps Advice",
+      "image": "file:///android_asset/gmbr/B.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Apps Info",
+      "image": "file:///android_asset/gmbr/C.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Information",
+      "title": "About Clothoffio",
+      "image": "file:///android_asset/gmbr/A.jpg",
+      "description": "Cloth Off io APK is a puzzle-based Android app that lets you play games that are fun and interesting. Clothoff.io is a platform for fans",
+      "link": "https://clothoffioappadvices.blogspot.com/p/about-clothoffio.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Information",
+      "title": "Features Clothoff",
+      "image": "file:///android_asset/gmbr/B.jpg",
+      "description": "Clothoff.io gives its users more artistic freedom than ever before, making it easy for them to change images and create",
+      "link": "https://clothoffioappadvices.blogspot.com/p/features-clothoff-io.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Information",
+      "title": "Introducing Clothoff",
+      "image": "file:///android_asset/gmbr/C.jpg",
+      "description": "In a world driven by technological advancements and the pursuit of innovation, Clothoff.io APK emerges as a groundbreaking",
+      "link": "https://clothoffioappadvices.blogspot.com/p/introducing-clothoff-io.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Information",
+      "title": "Overview Of Clothesoff",
+      "image": "file:///android_asset/gmbr/D.jpg",
+      "description": "Cloth Off io APK stands as a puzzle-based Android app that delves into the world of captivating gameplay. Drawing inspiration",
+      "link": "https://clothoffioappadvices.blogspot.com/p/overview-of-clothesoff-ai.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Information",
+      "title": "Attractive Features Of Clothoff",
+      "image": "file:///android_asset/gmbr/E.jpg",
+      "description": "Clothoff.io offers users unprecedented creative freedom, allowing them to modify images with ease and produce",
+      "link": "https://clothoffioappadvices.blogspot.com/p/attractive-features-of-clothoff-ai.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Apps Advice",
+      "title": "Advantages Clothoff",
+      "image": "file:///android_asset/gmbr/F.jpg",
+      "description": "Immersive Experience: Clothoff.io's interactive gameplay provides an immersive experience, making fans feel like they are",
+      "link": "https://clothoffioappadvices.blogspot.com/p/advantages-clothoff-io.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Apps Advice",
+      "title": "Advantages Clothoff",
+      "image": "file:///android_asset/gmbr/G.jpg",
+      "description": "Internet Connectivity: A stable internet connection is necessary to play the game, which may hinder the experience for users with limited",
+      "link": "https://clothoffioappadvices.blogspot.com/p/advantages-clothoff-io_31.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Apps Advice",
+      "title": "FAQs",
+      "image": "file:///android_asset/gmbr/H.jpg",
+      "description": "Absolutely! Clothoff.io APK Download is a secure platform, and downloading it from Clothoff.io ensures a safe and authentic",
+      "link": "https://clothoffioappadvices.blogspot.com/p/faqs.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Apps Advice",
+      "title": "Conclusion",
+      "image": "file:///android_asset/gmbr/I.jpg",
+      "description": "lothoff.io APK has proven to be a haven for fans of Beyond the Scene, offering them an innovative and creative platform to interact",
+      "link": "https://clothoffioappadvices.blogspot.com/p/conclusion.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Apps Advice",
+      "title": "Instructions How To Use Clothoff",
+      "image": "file:///android_asset/gmbr/B.jpg",
+      "description": "After successfully logging in, you will be greeted by the Clothoff.io Android interface. Explore the features and options on the",
+      "link": "https://clothoffioappadvices.blogspot.com/p/instructions-how-to-use-clothoff-io.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Apps Info",
+      "title": "Tips And Advice When Using Clothoff",
+      "image": "file:///android_asset/gmbr/C.jpg",
+      "description": "Sign Up and Login: If Clothoff.io APP requires registration and login, use your credentials or create a new account.",
+      "link": "https://clothoffioappadvices.blogspot.com/p/tips-and-advice-when-using-clothoff.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Apps Info",
+      "title": "Pros And Cons Clothoff",
+      "image": "file:///android_asset/gmbr/D.jpg",
+      "description": "Creative freedom: The biggest advantage of Clothoff.io APK Pro is its ability to allow users to modify and create images as",
+      "link": "https://clothoffioappadvices.blogspot.com/p/pros-and-cons-clothoff-io.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Apps Info",
+      "title": "Why Clothoff IO Is Exceptional or Outstanding",
+      "image": "file:///android_asset/gmbr/E.jpg",
+      "description": "Clothoff.io APK is different from other platforms because it wants you to have full control over what you create without",
+      "link": "https://clothoffioappadvices.blogspot.com/p/why-clothoff-io-is-exceptional-or.html"
+    },
+    {
+      "id": 14,
+      "name_category": "Apps Info",
+      "title": "Clothoff IO Makes Customizing Your Images Easier and More Enjoyable",
+      "image": "file:///android_asset/gmbr/F.jpg",
+      "description": "Clothoff.io APK allows users to freely express themselves by using a range of tools and features to customize images and showcase",
+      "link": "https://clothoffioappadvices.blogspot.com/p/clothoff-io-makes-customizing-your.html"
+    },
+    {
+      "id": 15,
+      "name_category": "Apps Info",
+      "title": "Embracing Infinite Imagination",
+      "image": "file:///android_asset/gmbr/G.jpg",
+      "description": "Clothoff. io APK isn’t only a tool for editing. It’s like a blank canvas waiting for you to be creative. Whether you’re someone",
+      "link": "https://clothoffioappadvices.blogspot.com/p/embracing-infinite-imagination.html"
+    },
+    {
+      "id": 16,
+      "name_category": "Apps Info",
+      "title": "Benefits of Using the Clothoff",
+      "image": "file:///android_asset/gmbr/H.jpg",
+      "description": "Streamlined Wardrobe Management: No more rummaging through stacks of clothes. Digitize your collection, ensuring",
+      "link": "https://clothoffioappadvices.blogspot.com/p/benefits-of-using-clothoff-io.html"
+    },
+    {
+      "id": 17,
+      "name_category": "Apps Info",
+      "title": "Explore Features Of Clothoff",
+      "image": "file:///android_asset/gmbr/G.jpg",
+      "description": "Virtual Closet Creation: Say goodbye to chaotic mornings. Clothoff.io APK Android version allows users to digitize their wardrobe",
+      "link": "https://clothoffioappadvices.blogspot.com/p/explore-features-of-clothoff-io.html"
+    },
+    {
+      "id": 18,
+      "name_category": "Apps Info",
+      "title": "Best Tips For Clothoff",
+      "image": "file:///android_asset/gmbr/I.jpg",
+      "description": "Quality Over Quantity: When uploading photos of your apparel and accessories, prioritize clarity and good lighting.",
+      "link": "https://clothoffioappadvices.blogspot.com/p/best-tips-for-clothoff-io.html"
+    }
+  ]
+}
