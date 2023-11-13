@@ -15,11 +15,11 @@
         "value": 1,
         "min_time": 0,
 
-        "appId_appKey_publisherId_gameId": "isi-app-id-app-key",
-        "banner": "isi-kode-iklan-banner",
+        "appId_appKey_publisherId_gameId": "1374160030194705",
+        "banner": "1374160030194705_1374161323527909",
         "mrec": "off",
-        "inter": "isi-kode-iklan-inter",
-        "native_ad": "off",
+        "inter": "1374160030194705_1374161470194561",
+        "native_ad": "1374160030194705_1374161640194544",
         "open_ad": "off",
         "splash_ad": false
       }
